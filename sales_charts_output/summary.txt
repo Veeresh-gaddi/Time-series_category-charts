@@ -1,0 +1,14 @@
+Sales Charts Demo - Summary
+Generated: 2025-11-30 07:34:38 UTC
+
+Total sales: 192,024.66
+Top category: Electronics (76,742.52)
+Best month: December 2024 (19,708.39)
+
+Files in: sales_charts_output
+- daily_sales.png
+- monthly_sales.png
+- quarterly_sales.png
+- category_bar.png
+- category_pie.png
+- sample_sales.csv
